@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there%2C+I'm+Sabuhi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there%2C+I'm+Sabuhi&duration=10000&center=true)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student&duration=10000&center=true)](https://git.io/typing-svg)
 
