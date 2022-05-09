@@ -5,7 +5,7 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Sabuhi!;I'm+a+Web+Developer...;I+like+to+develop+in+IT)](https://git.io/typing-svg)
-
+![Profile views](https://gpvc.arturio.dev/IsSabuhi)
 <p align="center">
 <img src="https://img.shields.io/badge/Age-21-blue" />
   <img src="https://img.shields.io/badge/Focus-Web%20Developer-brightgreen" />
@@ -13,8 +13,6 @@
 </p>
 <hr>
 <br>
-
-![Profile views](https://gpvc.arturio.dev/IsSabuhi)
 
 ### About Me:
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -76,12 +74,16 @@
 </p>
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsSabuhi&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 <details><summary>Trophies</summary>
+<br>
 <p align="center">
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=IsSabuhi&column=7&theme=gruvbox&no-frame=true"/>
 </details>
-
+<br>
 <details><summary>Contribution Graph</summary>
+<br>
 <p align="center">
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=IsSabuhi&theme=chartreuse-dark&no-frame=true" /></p>
 </details>
@@ -92,8 +94,6 @@
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IsSabuhi&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IsSabuhi&theme=chartreuse-dark" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsSabuhi&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>  
 <br>
 <br>
