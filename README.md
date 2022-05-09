@@ -1,29 +1,43 @@
 
-
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Sabuhi!;I'm+a+Web+Developer...;I+like+to+develop+in+IT)](https://git.io/typing-svg)
-![Profile views](https://gpvc.arturio.dev/IsSabuhi)
+
 <p align="center">
 <img src="https://img.shields.io/badge/Age-21-blue" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Developer-brightgreen" />
-  <img src="https://img.shields.io/badge/Languages-Russian%20%26%20English-brightgreen" />
+<img src="https://img.shields.io/badge/Focus-Web%20Developer-brightgreen" />
+<img src="https://img.shields.io/badge/Languages-Russian%20%26%20English-brightgreen" />
+</p>
+<p align="center">
+<a href="https://github.com/ParIsSabuhiply/">
+  <img src="https://img.shields.io/github/followers/IsSabuhi?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/>
+</a>
+<a href="https://github.com/IsSabuhi/">
+  <img src="https://img.shields.io/github/last-commit/IsSabuhi/IsSabuhi?style=flat-square?color=red&label=Last%20Updated%20"/>
+</a>
 </p>
 <hr>
-<br>
+
+<img src="https://gpvc.arturio.dev/IsSabuhi"/><br>
 
 ### About Me:
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <p align="left">
-- 🌱 I’m currently learning Web Development and other programming languages <br>
+- 👋 Hi, I’m Sabuhi<br>
+- 👨‍💻 I’m currently learning Web Development and other programming languages <br>
+- 🔭 In my free time I work on skills<br>
 - 🤔 I use it daily Python, JS <br>
-- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖<br>
-- ⚡ Interesting fact: I know a little Russian.<br>
-- 📫 How to reach me **sabuhi.israfilov2001@gmail.com** <br>
+- 👯 I'm happy to collaborate on any web development project<br>
+- 🧠 I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖<br>
+- ⚡ Interesting fact: I love eating food than cooking 😋<br>
+- 📫 How to reach me:
+
+[![](https://img.shields.io/badge/Gmail-sabuhi.israfilov2001@gmail.com-red)](mailto:sabuhi.israfilov2001@gmail.com)<br>
+[![](https://img.shields.io/badge/Telegram-IsSabuhi-blue)](https://t.me/Is_Sabuhi)<br>
 </p>
-<br>
+<hr>
 <br>
 
 ## 🛠️ My Skills
@@ -87,7 +101,7 @@
 <p align="center">
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=IsSabuhi&theme=chartreuse-dark&no-frame=true" /></p>
 </details>
-
+<hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
@@ -96,5 +110,10 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IsSabuhi&theme=chartreuse-dark" />
 </p>  
 <br>
+<br>
+<hr>
+
+## Just a Snake 🐍 Eating away my Contributions...
+![snake gif](/github-user-contribution.svg)
 <br>
 
