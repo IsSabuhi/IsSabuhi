@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Sabuhi!;I'm+a+Web+Developer...;I+like+to+develop+in+IT)](https://git.io/typing-svg)
 
 <p align="center">
-<img src="https://img.shields.io/badge/Age-21-blue" />
+<img src="https://img.shields.io/badge/Age-23-blue" />
 <img src="https://img.shields.io/badge/Focus-Web%20Developer-brightgreen" />
 <img src="https://img.shields.io/badge/Languages-Russian%20%26%20English-brightgreen" />
 </p>
