@@ -20,7 +20,7 @@
 </p>
 <hr>
 
-<img src="https://gpvc.arturio.dev/IsSabuhi"/><br>
+
 
 ### About Me:
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -95,11 +95,9 @@
 <p align="center">
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=IsSabuhi&column=7&theme=gruvbox&no-frame=true"/>
 </details>
-<br>
-<details><summary>Contribution Graph</summary>
-<br>
+
 <p align="center">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=IsSabuhi&theme=chartreuse-dark&no-frame=true" /></p>
+
 </details>
 <hr>
 <p align="center">
@@ -107,9 +105,8 @@
  
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IsSabuhi&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IsSabuhi&theme=chartreuse-dark" />
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IsSabuhi&theme=chartreuse-dark" /> -->
 </p>  
-<br>
 <br>
 <hr>
 
